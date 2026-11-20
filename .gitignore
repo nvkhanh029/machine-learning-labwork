@@ -1,6 +1,4 @@
-# Data files (download them again, see README)
-data/
-*.csv
+# Data files
 *.zip
 
 # Jupyter

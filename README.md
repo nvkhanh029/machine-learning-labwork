@@ -1,7 +1,6 @@
 # Machine Learning and Data Mining 2 – Lab work
 
-Lab work for the course Machine Learning and Data Mining 2 (USTH).
-Author: Vân Khánh
+Lab work for the course Machine Learning and Data Mining 2.
 
 ## Labs
 | Lab | Topic | Folder |
@@ -15,8 +14,13 @@ jupyter notebook
 ```
 
 ## Data
-Data files are not stored in the repo. Download them into the lab's `data/` folder.
+Data files are in each lab’s `data/` folder
 
-- Lab 1: Wine Quality (red and white), UCI Machine Learning Repository:
-  https://archive.ics.uci.edu/dataset/186/wine+quality
-  Put `winequality-red.csv` and `winequality-white.csv` in `lab01-pca/data/`.
+- **Lab 1 – PCA:** Wine Quality, UCI Machine Learning Repository (ID 186).    <br>
+  Download: https://archive.ics.uci.edu/dataset/186/wine+quality    <br>
+  Files: `winequality-red.csv`, `winequality-white.csv` (separator `;`), `winequality.names` (description).    <br>
+  License: CC BY 4.0.   <br><br>
+  Citation: P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis.   <br>
+  Modeling wine preferences by data mining from physicochemical properties.   <br>
+  In Decision Support Systems, Elsevier, 47(4):547-553, 2009. ISSN: 0167-9236.
+  https://doi.org/10.1016/j.dss.2009.05.016
