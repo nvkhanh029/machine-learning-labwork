@@ -1,0 +1,18 @@
+# Data files (download them again, see README)
+data/
+*.csv
+*.zip
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Windows / editors
+Thumbs.db
+desktop.ini
+.vscode/
