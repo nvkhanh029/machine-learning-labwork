@@ -6,6 +6,7 @@ Lab work for the course Machine Learning and Data Mining 2.
 | Lab | Topic | Folder |
 |-----|-------|--------|
 | 1 | Principal Component Analysis | `lab01-pca/` |
+| 2 | Clustering | `lab02-clustering/` |
 
 ## Setup
 ```
@@ -24,3 +25,11 @@ Data files are in each lab’s `data/` folder
   Modeling wine preferences by data mining from physicochemical properties.   <br>
   In Decision Support Systems, Elsevier, 47(4):547-553, 2009. ISSN: 0167-9236.
   https://doi.org/10.1016/j.dss.2009.05.016
+
+- **Lab 2 – Clustering (Part 1, k-means):** Seeds, UCI Machine Learning Repository (ID 236).    <br>
+  Download: https://archive.ics.uci.edu/dataset/236/seeds    <br>
+  File: `seeds_dataset.txt` (whitespace-separated, no header; 7 features + class label 1–3).    <br>
+  License: CC BY 4.0.   <br><br>
+  Citation: M. Charytanowicz, J. Niewczas, P. Kulczycki, P. Kowalski and S. Łukasik.   <br>
+  Seeds [Dataset]. UCI Machine Learning Repository, 2010.
+  https://doi.org/10.24432/C5H30K
